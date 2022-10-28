@@ -1,0 +1,1 @@
+Utilizando git e github que são plataformas e aplicações de versionamento
